@@ -30,6 +30,9 @@
     "url": "https://github.com/rherwig/vue-marked/issues"
   },
   "homepage": "https://github.com/rherwig/vue-marked#readme",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.17",
     "@babel/preset-env": "^7.12.17",
