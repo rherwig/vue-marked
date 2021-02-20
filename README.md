@@ -1,6 +1,6 @@
 # VueMarked
 
-[![npm version](https://badge.fury.io/js/%40rherwig%2Fvue-marked.svg)](https://badge.fury.io/js/%40rherwig%2Fvue-marked)
+[![npm version](https://badge.fury.io/js/@hrwg/vue-marked.svg)](https://badge.fury.io/js/@hrwg/vue-marked)
 
 VueMarked is an isomorphic and configurable Vue Component that renders Markdown
 as HTML. It is based on [marked](https://github.com/markedjs/marked) - one of 
