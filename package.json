@@ -1,6 +1,6 @@
 {
   "name": "@hrwg/vue-marked",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Isomorphic and configurable Vue Component for rendering Markdown",
   "main": "dist/vue-marked.js",
   "unpkg": "dist/vue-marked.js",
